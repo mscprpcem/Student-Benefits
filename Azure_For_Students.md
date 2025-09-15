@@ -33,7 +33,7 @@ Visit: [https://azure.microsoft.com/en-us/free/students](https://azure.microsoft
 <td>
 
 **Step 2: Fill in Your Details**  
-Enter your student information and college email ID.
+Enter your basic information and college email ID end with @prpotepatilengg.ac.in.
 
 </td>
 <td>
